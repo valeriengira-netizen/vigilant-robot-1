@@ -1,0 +1,36 @@
+{
+  "playlist_name": "My_Jams",
+  "created_by": "Chacha",
+  "tracks": [
+    {
+      "title": "Stan",
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "duration_sec": 405
+    },
+    {
+      "title": "In Da Club",
+      "artist": "50 Cent",
+      "album": "Get Rich or Die Tryin",
+      "duration_sec": 240
+    },
+    {
+      "title": "Suzanna",
+      "artist": "Sauti Sol",
+      "album": "Midnight Train",
+      "duration_sec": 239
+    },
+    {
+      "title": "Many Men",
+      "artist": "50 Cent",
+      "album": "Get Rich or Die Tryin",
+      "duration_sec": 256
+    },
+    {
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "album": "Origins",
+      "duration_sec": 243
+    }
+  ]
+}
